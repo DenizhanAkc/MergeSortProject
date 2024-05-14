@@ -9,7 +9,7 @@
 [8,11,12,16,21,22]
 ============================
 
-1) Big-O gösterimini yazınız.
+2) Big-O gösterimini yazınız.
   => n
   => n/2
   => n/4
